@@ -24,8 +24,6 @@ Forerunner Ventures
 
 Fax-SMS-Over-Web1/2-to-Blockchain
 
-Origins of Bitcoin moment: a complete reverse idea of WMDs, economically-speaking (2003) - DFW’s “Everything and More”
-
 Proof-of-Work hash-based GUI upt0ime behavior(s) for Browser (s)
 
 Microsoft Terminal → a porting-over into Bitcoin Terminal?
